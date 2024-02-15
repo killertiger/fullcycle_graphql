@@ -1,0 +1,1 @@
+create table categories(id string, name string, description string);
